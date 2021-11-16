@@ -1,0 +1,39 @@
+.header-title {
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+body {
+    background-color: black;
+    text-align: center;
+}
+
+
+a {
+    font-family: Verdana;
+    color: aquamarine;
+    font-size: 16px;
+}
+
+.title-content{
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+.subtitle{
+    font-family: Verdana;
+    font-size: 21px;
+    color: gray;
+}
+
+footer p {
+    color: gray;
+    font-family: Verdana;
+    font-size: 21px;
+    text-align: right;
+}
